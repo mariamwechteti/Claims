@@ -49,3 +49,7 @@ exports.compte = (req, res) => {
           //  res.json(body); //res is the response object, and it passes info back to client side
         });*/
  };
+exports.graphApi=()=>
+{
+
+};
